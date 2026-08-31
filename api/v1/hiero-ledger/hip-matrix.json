@@ -607,7 +607,7 @@
    "cells": [
     {
      "key": "hiero-ledger/hiero-consensus-node",
-     "merged": 5,
+     "merged": 6,
      "open": 0
     },
     {
@@ -13155,6 +13155,6 @@
  ],
  "evidence_section": "hip-evidence",
  "macro": "HIPs",
- "generated_at": "2026-08-26T09:35:41.100105+00:00",
+ "generated_at": "2026-08-31T16:39:05.071912+00:00",
  "stale": false
 }
