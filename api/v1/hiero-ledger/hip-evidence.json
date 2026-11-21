@@ -76,6 +76,20 @@
   {
    "hip": 1535,
    "hip_title": "CLPR \u2014 A Cross Ledger Protocol for Hiero",
+   "repo": "hiero-ledger/hiero-mirror-node-explorer",
+   "pr_number": 2873,
+   "pr_title": "chore: bump @hiero-ledger/proto from 2.32.0 to 2.32.1 in /_frontend",
+   "pr_state": "OPEN",
+   "pr_merged_at": null,
+   "match_sources": "body",
+   "qualifier": null,
+   "counted": true,
+   "snippet": "ased</h1> <h3>Added</h3> <ul> <li>Added HIP-1535 CLPR support: eight transactions, two p",
+   "url": "https://github.com/hiero-ledger/hiero-mirror-node-explorer/pull/2873"
+  },
+  {
+   "hip": 1535,
+   "hip_title": "CLPR \u2014 A Cross Ledger Protocol for Hiero",
    "repo": "hiero-ledger/hiero-sdk-go",
    "pr_number": 1891,
    "pr_title": " feat: add HIP-1535 CLPR support",
@@ -86,6 +100,20 @@
    "counted": true,
    "snippet": "feat: add HIP-1535 CLPR support",
    "url": "https://github.com/hiero-ledger/hiero-sdk-go/pull/1891"
+  },
+  {
+   "hip": 1535,
+   "hip_title": "CLPR \u2014 A Cross Ledger Protocol for Hiero",
+   "repo": "hiero-ledger/hiero-sdk-go",
+   "pr_number": 1905,
+   "pr_title": "chore: update protos to v0.80.0-alpha.5",
+   "pr_state": "OPEN",
+   "pr_merged_at": null,
+   "match_sources": "body",
+   "qualifier": null,
+   "counted": true,
+   "snippet": "odule to the consensus node schema that HIP-1535 CLPR targets (the same commit the JS SD",
+   "url": "https://github.com/hiero-ledger/hiero-sdk-go/pull/1905"
   },
   {
    "hip": 1535,
@@ -198,6 +226,34 @@
    "counted": true,
    "snippet": "feature/HIP-1485-add-child-column",
    "url": "https://github.com/hiero-ledger/hiero-mirror-node/pull/14415"
+  },
+  {
+   "hip": 1485,
+   "hip_title": "EVM Debug APIs",
+   "repo": "hiero-ledger/hiero-mirror-node",
+   "pr_number": 14715,
+   "pr_title": "Add BlockOverride support in web3",
+   "pr_state": "OPEN",
+   "pr_merged_at": null,
+   "match_sources": "body",
+   "qualifier": null,
+   "counted": true,
+   "snippet": "for eth_call and eth_estimateGas as per HIP-1485 definition. **Related issue(s)**: Fix",
+   "url": "https://github.com/hiero-ledger/hiero-mirror-node/pull/14715"
+  },
+  {
+   "hip": 1485,
+   "hip_title": "EVM Debug APIs",
+   "repo": "hiero-ledger/hiero-mirror-node",
+   "pr_number": 14721,
+   "pr_title": "Extract ThrottleManager usage from ContractCallService",
+   "pr_state": "MERGED",
+   "pr_merged_at": "2026-11-19 20:57:31+00:00",
+   "match_sources": "body",
+   "qualifier": null,
+   "counted": true,
+   "snippet": "mentations for new REST APIs defined in HIP-1485, we will allow the execution or tracing",
+   "url": "https://github.com/hiero-ledger/hiero-mirror-node/pull/14721"
   },
   {
    "hip": 1427,
@@ -3366,6 +3422,20 @@
   {
    "hip": 1195,
    "hip_title": "Hiero hooks and an application to allowances",
+   "repo": "hiero-ledger/hiero-mirror-node",
+   "pr_number": 14636,
+   "pr_title": "feat(clpr): Add remaining transaction handlers and full-pipeline E2E coverage",
+   "pr_state": "OPEN",
+   "pr_merged_at": null,
+   "match_sources": "body",
+   "qualifier": null,
+   "counted": true,
+   "snippet": "nsensus Node execution scenario because HIP-1195 prohibits hook execution within atomic",
+   "url": "https://github.com/hiero-ledger/hiero-mirror-node/pull/14636"
+  },
+  {
+   "hip": 1195,
+   "hip_title": "Hiero hooks and an application to allowances",
    "repo": "hiero-ledger/hiero-mirror-node-explorer",
    "pr_number": 2301,
    "pr_title": "fix: adjust to HIP-1195 Replace LambdaSStore with HookStore",
@@ -3936,6 +4006,20 @@
    "counted": true,
    "snippet": "Record Stream \u2192 Block Stream cutover ([HIP-1193](https://hips.hedera.com/hip/hip-1193))",
    "url": "https://github.com/hiero-ledger/hiero-mirror-node/pull/14009"
+  },
+  {
+   "hip": 1193,
+   "hip_title": "Record Stream to Block Stream Cutover",
+   "repo": "hiero-ledger/solo",
+   "pr_number": 6443,
+   "pr_title": "feat: bump solo-charts to 0.68.0 for .blk.zstd block stream uploads",
+   "pr_state": "MERGED",
+   "pr_merged_at": "2026-11-19 10:28:02+00:00",
+   "match_sources": "body",
+   "qualifier": null,
+   "counted": true,
+   "snippet": "he blockstream-uploader sidecar uploads HIP-1193 `.blk.zstd` block files as well as `.bl",
+   "url": "https://github.com/hiero-ledger/solo/pull/6443"
   },
   {
    "hip": 1193,
@@ -12422,8 +12506,8 @@
    "url": "https://github.com/hiero-ledger/hiero-sdk-python/pull/380"
   }
  ],
- "row_count": 883,
- "generated_at": "2026-11-16T19:11:52.101191+00:00",
+ "row_count": 889,
+ "generated_at": "2026-11-21T16:36:20.753696+00:00",
  "stale": false,
  "macro": "HIPs"
 }

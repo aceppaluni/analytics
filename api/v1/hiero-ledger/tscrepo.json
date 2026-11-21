@@ -1244,33 +1244,10 @@
   }
  ],
  "row_count": 109,
- "generated_at": "2026-11-16T19:10:06.490737+00:00",
+ "generated_at": "2026-11-21T16:34:54.670876+00:00",
  "stale": false,
  "periods": {
-  "7d": [
-   {
-    "account": "georgi-l95",
-    "repo": "hiero-ledger/governance",
-    "repo_role": "maintainer",
-    "prs_opened": 0,
-    "reviews_given": 1,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-11-10 15:12:33+00:00"
-   },
-   {
-    "account": "hendrikebbers",
-    "repo": "hiero-ledger/hiero-sdk-java",
-    "repo_role": "triage",
-    "prs_opened": 0,
-    "reviews_given": 1,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-11-10 07:47:17+00:00"
-   }
-  ],
+  "7d": [],
   "30d": [
    {
     "account": "georgi-l95",
@@ -1318,17 +1295,6 @@
    },
    {
     "account": "hendrikebbers",
-    "repo": "hiero-ledger/hiero-enterprise-java",
-    "repo_role": "maintainer",
-    "prs_opened": 0,
-    "reviews_given": 2,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-10-19 11:55:39+00:00"
-   },
-   {
-    "account": "hendrikebbers",
     "repo": "hiero-ledger/solo",
     "repo_role": "general",
     "prs_opened": 0,
@@ -1359,39 +1325,6 @@
     "issues_opened": 0,
     "labels_applied": 0,
     "last_active": "2026-11-10 07:47:17+00:00"
-   },
-   {
-    "account": "hendrikebbers",
-    "repo": "hiero-ledger/tsc",
-    "repo_role": "maintainer",
-    "prs_opened": 0,
-    "reviews_given": 0,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 1,
-    "last_active": "2026-10-20 15:54:59+00:00"
-   },
-   {
-    "account": "kantorcodes",
-    "repo": "hiero-ledger/hiero-consensus-specifications",
-    "repo_role": "maintainer",
-    "prs_opened": 1,
-    "reviews_given": 0,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-10-19 14:55:22+00:00"
-   },
-   {
-    "account": "stoqnkpL",
-    "repo": "hiero-ledger/.github",
-    "repo_role": "maintainer",
-    "prs_opened": 0,
-    "reviews_given": 1,
-    "merges_done": 0,
-    "issues_opened": 0,
-    "labels_applied": 0,
-    "last_active": "2026-10-22 10:41:26+00:00"
    }
   ],
   "365d": [
@@ -1411,8 +1344,8 @@
     "repo": "hiero-ledger/governance",
     "repo_role": "maintainer",
     "prs_opened": 0,
-    "reviews_given": 6,
-    "merges_done": 2,
+    "reviews_given": 5,
+    "merges_done": 1,
     "issues_opened": 0,
     "labels_applied": 0,
     "last_active": "2026-09-02 16:00:33+00:00"
@@ -1476,9 +1409,9 @@
     "account": "hendrikebbers",
     "repo": "hiero-ledger/sdk-collaboration-hub",
     "repo_role": "maintainer",
-    "prs_opened": 43,
-    "reviews_given": 84,
-    "merges_done": 34,
+    "prs_opened": 34,
+    "reviews_given": 72,
+    "merges_done": 26,
     "issues_opened": 6,
     "labels_applied": 4,
     "last_active": "2026-09-23 14:56:15+00:00"
@@ -1487,7 +1420,7 @@
     "account": "hendrikebbers",
     "repo": "hiero-ledger/governance",
     "repo_role": "maintainer",
-    "prs_opened": 29,
+    "prs_opened": 27,
     "reviews_given": 63,
     "merges_done": 39,
     "issues_opened": 5,
@@ -1518,17 +1451,6 @@
    },
    {
     "account": "hendrikebbers",
-    "repo": "hiero-ledger/tsc",
-    "repo_role": "maintainer",
-    "prs_opened": 7,
-    "reviews_given": 3,
-    "merges_done": 9,
-    "issues_opened": 2,
-    "labels_applied": 4,
-    "last_active": "2026-10-20 15:54:59+00:00"
-   },
-   {
-    "account": "hendrikebbers",
     "repo": "hiero-ledger/.github",
     "repo_role": "maintainer",
     "prs_opened": 2,
@@ -1537,6 +1459,17 @@
     "issues_opened": 0,
     "labels_applied": 0,
     "last_active": "2026-10-26 12:03:24+00:00"
+   },
+   {
+    "account": "hendrikebbers",
+    "repo": "hiero-ledger/tsc",
+    "repo_role": "maintainer",
+    "prs_opened": 6,
+    "reviews_given": 3,
+    "merges_done": 8,
+    "issues_opened": 2,
+    "labels_applied": 4,
+    "last_active": "2026-10-20 15:54:59+00:00"
    },
    {
     "account": "hendrikebbers",

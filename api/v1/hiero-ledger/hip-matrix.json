@@ -440,7 +440,7 @@
     {
      "key": "hiero-ledger/hiero-mirror-node",
      "merged": 10,
-     "open": 0
+     "open": 1
     },
     {
      "key": "hiero-ledger/hiero-block-node",
@@ -1683,7 +1683,7 @@
     },
     {
      "key": "hiero-ledger/solo",
-     "merged": 0,
+     "merged": 1,
      "open": 0
     },
     {
@@ -2084,6 +2084,88 @@
     {
      "key": "hiero-ledger/hiero-json-rpc-relay",
      "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-mirror-node-explorer",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/solo",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-local-node",
+     "merged": 0,
+     "open": 0
+    }
+   ],
+   "note": {
+    "kind": "none",
+    "text": "no SDK activity found"
+   }
+  },
+  {
+   "key": 1485,
+   "label": "HIP-1485",
+   "sublabel": "EVM Debug APIs",
+   "status": "Last Call",
+   "cells": [
+    {
+     "key": "hiero-ledger/hiero-consensus-node",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-mirror-node",
+     "merged": 2,
+     "open": 3
+    },
+    {
+     "key": "hiero-ledger/hiero-block-node",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-sdk-java",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-sdk-go",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-sdk-js",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-sdk-cpp",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-sdk-rust",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-sdk-swift",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-sdk-python",
+     "merged": 0,
+     "open": 0
+    },
+    {
+     "key": "hiero-ledger/hiero-json-rpc-relay",
+     "merged": 1,
      "open": 0
     },
     {
@@ -2525,10 +2607,10 @@
    }
   },
   {
-   "key": 1485,
-   "label": "HIP-1485",
-   "sublabel": "EVM Debug APIs",
-   "status": "Last Call",
+   "key": 1535,
+   "label": "HIP-1535",
+   "sublabel": "CLPR \u2014 A Cross Ledger Protocol for Hiero",
+   "status": "Approved",
    "cells": [
     {
      "key": "hiero-ledger/hiero-consensus-node",
@@ -2538,7 +2620,7 @@
     {
      "key": "hiero-ledger/hiero-mirror-node",
      "merged": 1,
-     "open": 2
+     "open": 0
     },
     {
      "key": "hiero-ledger/hiero-block-node",
@@ -2553,11 +2635,11 @@
     {
      "key": "hiero-ledger/hiero-sdk-go",
      "merged": 0,
-     "open": 0
+     "open": 2
     },
     {
      "key": "hiero-ledger/hiero-sdk-js",
-     "merged": 0,
+     "merged": 1,
      "open": 0
     },
     {
@@ -2582,13 +2664,13 @@
     },
     {
      "key": "hiero-ledger/hiero-json-rpc-relay",
-     "merged": 1,
+     "merged": 0,
      "open": 0
     },
     {
      "key": "hiero-ledger/hiero-mirror-node-explorer",
      "merged": 0,
-     "open": 0
+     "open": 1
     },
     {
      "key": "hiero-ledger/solo",
@@ -2602,8 +2684,16 @@
     }
    ],
    "note": {
-    "kind": "none",
-    "text": "no SDK activity found"
+    "kind": "partial",
+    "text": "java \u00b7 go \u00b7 cpp \u00b7 rust \u00b7 swift \u00b7 python",
+    "items": [
+     "java",
+     "go",
+     "cpp",
+     "rust",
+     "swift",
+     "python"
+    ]
    }
   },
   {
@@ -2771,96 +2861,6 @@
     "items": [
      "java",
      "js",
-     "cpp",
-     "rust",
-     "swift",
-     "python"
-    ]
-   }
-  },
-  {
-   "key": 1535,
-   "label": "HIP-1535",
-   "sublabel": "CLPR \u2014 A Cross Ledger Protocol for Hiero",
-   "status": "Approved",
-   "cells": [
-    {
-     "key": "hiero-ledger/hiero-consensus-node",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-mirror-node",
-     "merged": 1,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-block-node",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-sdk-java",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-sdk-go",
-     "merged": 0,
-     "open": 1
-    },
-    {
-     "key": "hiero-ledger/hiero-sdk-js",
-     "merged": 1,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-sdk-cpp",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-sdk-rust",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-sdk-swift",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-sdk-python",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-json-rpc-relay",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-mirror-node-explorer",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/solo",
-     "merged": 0,
-     "open": 0
-    },
-    {
-     "key": "hiero-ledger/hiero-local-node",
-     "merged": 0,
-     "open": 0
-    }
-   ],
-   "note": {
-    "kind": "partial",
-    "text": "java \u00b7 go \u00b7 cpp \u00b7 rust \u00b7 swift \u00b7 python",
-    "items": [
-     "java",
-     "go",
      "cpp",
      "rust",
      "swift",
@@ -13818,6 +13818,6 @@
  ],
  "evidence_section": "hip-evidence",
  "macro": "HIPs",
- "generated_at": "2026-11-16T19:11:52.103695+00:00",
+ "generated_at": "2026-11-21T16:36:20.757641+00:00",
  "stale": false
 }
