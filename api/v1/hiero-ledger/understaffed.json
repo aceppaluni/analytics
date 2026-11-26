@@ -32,13 +32,6 @@
  ],
  "rows": [
   {
-   "repo": "hiero-agentic-support",
-   "maintainers": 1,
-   "active_maintainers": 0,
-   "committers": 2,
-   "triage": 0
-  },
-  {
    "repo": "roadmap",
    "maintainers": 3,
    "active_maintainers": 0,
@@ -88,10 +81,10 @@
    "triage": 0
   },
   {
-   "repo": "hiero",
-   "maintainers": 16,
-   "active_maintainers": 0,
-   "committers": 0,
+   "repo": "hiero-agentic-support",
+   "maintainers": 1,
+   "active_maintainers": 1,
+   "committers": 2,
    "triage": 0
   },
   {
@@ -128,10 +121,17 @@
    "active_maintainers": 1,
    "committers": 2,
    "triage": 10
+  },
+  {
+   "repo": "hiero",
+   "maintainers": 16,
+   "active_maintainers": 1,
+   "committers": 0,
+   "triage": 0
   }
  ],
  "row_count": 14,
- "generated_at": "2026-11-21T16:34:45.859313+00:00",
+ "generated_at": "2026-11-26T18:55:57.580894+00:00",
  "stale": false,
  "periods": {
   "7d": [
@@ -164,32 +164,11 @@
     "triage": 0
    },
    {
-    "repo": "hiero-enterprise-java",
-    "maintainers": 3,
-    "active_maintainers": 0,
-    "committers": 2,
-    "triage": 12
-   },
-   {
-    "repo": "hiero-mirror-node-explorer",
-    "maintainers": 3,
-    "active_maintainers": 0,
-    "committers": 1,
-    "triage": 0
-   },
-   {
     "repo": "hiero-sdk-swift",
     "maintainers": 3,
     "active_maintainers": 0,
     "committers": 1,
     "triage": 15
-   },
-   {
-    "repo": "hiero-docs",
-    "maintainers": 3,
-    "active_maintainers": 0,
-    "committers": 0,
-    "triage": 0
    },
    {
     "repo": "hiero-sdk-cpp",
@@ -199,32 +178,11 @@
     "triage": 15
    },
    {
-    "repo": "hiero-solo-action",
-    "maintainers": 3,
-    "active_maintainers": 0,
-    "committers": 0,
-    "triage": 0
-   },
-   {
     "repo": "tsc-eligibility-check",
     "maintainers": 3,
     "active_maintainers": 0,
     "committers": 0,
     "triage": 0
-   },
-   {
-    "repo": "hiero-improvement-proposals",
-    "maintainers": 4,
-    "active_maintainers": 0,
-    "committers": 77,
-    "triage": 0
-   },
-   {
-    "repo": "hiero-sdk-tck",
-    "maintainers": 4,
-    "active_maintainers": 0,
-    "committers": 5,
-    "triage": 8
    },
    {
     "repo": "solo-build-actions",
@@ -234,13 +192,6 @@
     "triage": 3
    },
    {
-    "repo": "heka-identity-platform",
-    "maintainers": 4,
-    "active_maintainers": 0,
-    "committers": 3,
-    "triage": 0
-   },
-   {
     "repo": "hiero-sdk-rust",
     "maintainers": 4,
     "active_maintainers": 0,
@@ -248,14 +199,14 @@
     "triage": 12
    },
    {
-    "repo": "hiero-gradle-conventions",
-    "maintainers": 4,
+    "repo": "homebrew-tools",
+    "maintainers": 5,
     "active_maintainers": 0,
-    "committers": 0,
+    "committers": 3,
     "triage": 0
    },
    {
-    "repo": "homebrew-tools",
+    "repo": "solo-charts",
     "maintainers": 5,
     "active_maintainers": 0,
     "committers": 3,
@@ -290,13 +241,6 @@
     "triage": 0
    },
    {
-    "repo": "solo-docs",
-    "maintainers": 8,
-    "active_maintainers": 0,
-    "committers": 3,
-    "triage": 0
-   },
-   {
     "repo": "identity-collaboration-hub",
     "maintainers": 8,
     "active_maintainers": 0,
@@ -325,21 +269,7 @@
     "triage": 1
    },
    {
-    "repo": "hiero-ethereum-execution-spec-tests",
-    "maintainers": 12,
-    "active_maintainers": 0,
-    "committers": 13,
-    "triage": 0
-   },
-   {
     "repo": ".github",
-    "maintainers": 16,
-    "active_maintainers": 0,
-    "committers": 0,
-    "triage": 0
-   },
-   {
-    "repo": "hiero",
     "maintainers": 16,
     "active_maintainers": 0,
     "committers": 0,
@@ -353,13 +283,6 @@
     "triage": 0
    },
    {
-    "repo": "governance",
-    "maintainers": 25,
-    "active_maintainers": 0,
-    "committers": 52,
-    "triage": 0
-   },
-   {
     "repo": "hiero-hederium",
     "maintainers": 2,
     "active_maintainers": 1,
@@ -367,17 +290,24 @@
     "triage": 0
    },
    {
-    "repo": "solo",
-    "maintainers": 4,
+    "repo": "hiero-docs",
+    "maintainers": 3,
     "active_maintainers": 1,
-    "committers": 9,
-    "triage": 1
+    "committers": 0,
+    "triage": 0
    },
    {
-    "repo": "hiero-cryptography",
+    "repo": "hiero-solo-action",
+    "maintainers": 3,
+    "active_maintainers": 1,
+    "committers": 0,
+    "triage": 0
+   },
+   {
+    "repo": "hiero-improvement-proposals",
     "maintainers": 4,
     "active_maintainers": 1,
-    "committers": 5,
+    "committers": 77,
     "triage": 0
    },
    {
@@ -388,15 +318,8 @@
     "triage": 11
    },
    {
-    "repo": "hiero-website",
+    "repo": "heka-identity-platform",
     "maintainers": 4,
-    "active_maintainers": 1,
-    "committers": 1,
-    "triage": 5
-   },
-   {
-    "repo": "solo-charts",
-    "maintainers": 5,
     "active_maintainers": 1,
     "committers": 3,
     "triage": 0
@@ -407,15 +330,29 @@
     "active_maintainers": 1,
     "committers": 2,
     "triage": 10
+   },
+   {
+    "repo": "hiero-ethereum-execution-spec-tests",
+    "maintainers": 12,
+    "active_maintainers": 1,
+    "committers": 13,
+    "triage": 0
+   },
+   {
+    "repo": "hiero",
+    "maintainers": 16,
+    "active_maintainers": 1,
+    "committers": 0,
+    "triage": 0
    }
   ],
   "30d": [
    {
-    "repo": "hiero-agentic-support",
-    "maintainers": 1,
+    "repo": "sdk-collaboration-hub",
+    "maintainers": 3,
     "active_maintainers": 0,
-    "committers": 2,
-    "triage": 0
+    "committers": 5,
+    "triage": 6
    },
    {
     "repo": "roadmap",
@@ -474,8 +411,15 @@
     "triage": 0
    },
    {
-    "repo": "hiero-consensus-specifications",
+    "repo": "solo-containers",
     "maintainers": 5,
+    "active_maintainers": 0,
+    "committers": 3,
+    "triage": 0
+   },
+   {
+    "repo": "hiero-cli",
+    "maintainers": 6,
     "active_maintainers": 0,
     "committers": 2,
     "triage": 0
@@ -509,13 +453,6 @@
     "triage": 0
    },
    {
-    "repo": "hiero",
-    "maintainers": 16,
-    "active_maintainers": 0,
-    "committers": 0,
-    "triage": 0
-   },
-   {
     "repo": "tsc",
     "maintainers": 16,
     "active_maintainers": 0,
@@ -523,11 +460,11 @@
     "triage": 0
    },
    {
-    "repo": "sdk-collaboration-hub",
-    "maintainers": 3,
+    "repo": "hiero-agentic-support",
+    "maintainers": 1,
     "active_maintainers": 1,
-    "committers": 5,
-    "triage": 6
+    "committers": 2,
+    "triage": 0
    },
    {
     "repo": "hiero-docs",
@@ -537,6 +474,13 @@
     "triage": 0
    },
    {
+    "repo": "hiero-sdk-java",
+    "maintainers": 4,
+    "active_maintainers": 1,
+    "committers": 5,
+    "triage": 11
+   },
+   {
     "repo": "heka-identity-platform",
     "maintainers": 4,
     "active_maintainers": 1,
@@ -544,17 +488,10 @@
     "triage": 0
    },
    {
-    "repo": "hiero-gradle-conventions",
-    "maintainers": 4,
-    "active_maintainers": 1,
-    "committers": 0,
-    "triage": 0
-   },
-   {
-    "repo": "solo-containers",
+    "repo": "hiero-consensus-specifications",
     "maintainers": 5,
     "active_maintainers": 1,
-    "committers": 3,
+    "committers": 2,
     "triage": 0
    },
    {
@@ -565,21 +502,21 @@
     "triage": 10
    },
    {
-    "repo": "hiero-cli",
-    "maintainers": 6,
+    "repo": ".github",
+    "maintainers": 16,
     "active_maintainers": 1,
-    "committers": 2,
+    "committers": 0,
+    "triage": 0
+   },
+   {
+    "repo": "hiero",
+    "maintainers": 16,
+    "active_maintainers": 1,
+    "committers": 0,
     "triage": 0
    }
   ],
   "365d": [
-   {
-    "repo": "hiero-agentic-support",
-    "maintainers": 1,
-    "active_maintainers": 0,
-    "committers": 2,
-    "triage": 0
-   },
    {
     "repo": "roadmap",
     "maintainers": 3,
@@ -593,6 +530,13 @@
     "active_maintainers": 0,
     "committers": 5,
     "triage": 3
+   },
+   {
+    "repo": "hiero-agentic-support",
+    "maintainers": 1,
+    "active_maintainers": 1,
+    "committers": 2,
+    "triage": 0
    },
    {
     "repo": "tsc-eligibility-check",

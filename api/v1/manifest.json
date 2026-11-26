@@ -333,10 +333,10 @@
  "issues_url": "https://github.com/hiero-hackers/analytics/issues",
  "wip": true,
  "version": "v1",
- "generated_at": "2026-11-21T16:37:20.111141+00:00",
+ "generated_at": "2026-11-26T18:58:40.236294+00:00",
  "provenance": {
   "git_sha": "8f8aa99",
-  "data_as_of": "2026-11-16T19:03:34.062225+00:00"
+  "data_as_of": "2026-11-26T18:42:18.250521+00:00"
  },
  "orgs": {
   "hiero-ledger": {
@@ -345,7 +345,7 @@
      "id": "profiles",
      "macro": "Contributors",
      "title": "All contributors",
-     "row_count": 1537,
+     "row_count": 1541,
      "path": "hiero-ledger/profiles.json"
     },
     {
@@ -394,14 +394,14 @@
      "id": "teamrepo",
      "macro": "Governance",
      "title": "Team activity by repo",
-     "row_count": 2992,
+     "row_count": 3008,
      "path": "hiero-ledger/teamrepo.json"
     },
     {
      "id": "tscrepo",
      "macro": "Governance",
      "title": "TSC activity by repo",
-     "row_count": 109,
+     "row_count": 110,
      "path": "hiero-ledger/tscrepo.json"
     },
     {
@@ -436,7 +436,7 @@
      "id": "hip-evidence",
      "macro": "HIPs",
      "title": "Evidence (per PR)",
-     "row_count": 889,
+     "row_count": 891,
      "path": "hiero-ledger/hip-evidence.json"
     },
     {
@@ -685,7 +685,7 @@
         {
          "label": "Week",
          "file": "charts/org/hiero-ledger/maintainer_pipeline_by_repo_7d.png",
-         "width": 2206,
+         "width": 2284,
          "height": 1051
         }
        ],
@@ -901,7 +901,7 @@
      "download": {
       "name": "hip_adoption_funnel.csv",
       "path": "hiero-ledger/hip_adoption_funnel.csv",
-      "generated_at": "2026-11-21T16:36:20.761901+00:00"
+      "generated_at": "2026-11-26T18:57:31.977244+00:00"
      }
     },
     {
@@ -961,7 +961,7 @@
      "download": {
       "name": "hip_repo_engagement.csv",
       "path": "hiero-ledger/hip_repo_engagement.csv",
-      "generated_at": "2026-11-21T16:36:20.758274+00:00"
+      "generated_at": "2026-11-26T18:57:31.975573+00:00"
      }
     },
     {
@@ -1070,18 +1070,18 @@
          "label": "1 year",
          "file": "charts/org/hiero-ledger/difficulty_by_repo_365d.png",
          "width": 2094,
-         "height": 2658
+         "height": 2720
         },
         {
          "label": "1 month",
          "file": "charts/org/hiero-ledger/difficulty_by_repo_30d.png",
          "width": 2091,
-         "height": 1718
+         "height": 1844
         },
         {
          "label": "Week",
          "file": "charts/org/hiero-ledger/difficulty_by_repo_7d.png",
-         "width": 2091,
+         "width": 2093,
          "height": 1280
         }
        ],
@@ -1140,7 +1140,7 @@
     "Contributors": [
      {
       "label": "contributors",
-      "value": 1537,
+      "value": 1541,
       "note": "Distinct people with any tracked activity in the organisation, all-time. The denominator for every percentage tile on this tab.",
       "methodology": [
        "Collect every tracked activity event: PRs opened, reviews, merges, issues opened, labels applied.",
@@ -1237,7 +1237,7 @@
      },
      {
       "label": "quiet permission-holders (180d+)",
-      "value": 101,
+      "value": 102,
       "note": "People holding a granted role who have had no tracked activity for 180 days or more \u2014 an access-hygiene list, not a judgement about the people on it.",
       "methodology": [
        "Take everyone holding a triage, committer, or maintainer role in any repository.",
@@ -1507,7 +1507,7 @@
         {
          "label": "Week",
          "file": "charts/org/hiero-hackers/difficulty_by_repo_7d.png",
-         "width": 2096,
+         "width": 2095,
          "height": 901
         }
        ],
@@ -1562,7 +1562,7 @@
      },
      {
       "label": "active last month %",
-      "value": "33%",
+      "value": "29%",
       "note": "The share of all-time contributors who did something in the last 30 days \u2014 a staleness check on the contributor base, not a measure of output.",
       "methodology": [
        "Take the 30-day activity table, which lists exactly the contributors active in that window.",
